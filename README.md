@@ -42,4 +42,4 @@ Example:
 }
 ````
 
-For more details about the methods got to the [oficial documentation]([https://bitcoincore.org/en/doc/0.18.0/rpc/](https://bitcoincore.org/en/doc/0.18.0/rpc/)).
+For more details about the methods go to the [oficial documentation](https://bitcoincore.org/en/doc/0.18.0/rpc/).
